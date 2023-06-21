@@ -1,0 +1,8 @@
+01. Create a JSON object representing a student with the following information:
+
+Name: John Doe
+Age: 18
+Grade: 12
+
+02. Convert the JSON object to a string.
+
